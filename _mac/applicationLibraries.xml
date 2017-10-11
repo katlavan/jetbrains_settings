@@ -188,6 +188,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/autoprefixer-rails-7.1.4.1/vendor" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt (v3.1.11, rbenv: 2.3.3) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
@@ -2384,6 +2400,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/re_book-0.0.15/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/re_book-0.0.15/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/re_book-0.0.15/features" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.3.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/react-rails-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/react-rails-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.3, rbenv: 2.3.3) [gem]">
