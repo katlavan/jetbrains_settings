@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.slim" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,10 +26,10 @@
       <mask>*.s;o</mask>
       <mask>*.s;</mask>
       <mask>*.s</mask>
+      <mask>*.coffee</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
       <mask>*.slim</mask>
-      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
