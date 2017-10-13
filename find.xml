@@ -17,18 +17,18 @@
       <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.*</mask>
-      <mask>*.coff</mask>
-      <mask>*.cof</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.s;o</mask>
       <mask>*.s;</mask>
+      <mask>*.slim=</mask>
       <mask>*.s</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
-      <mask>*.slim=</mask>
       <mask>*.slim</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
     </recentFileMasks>
