@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.slim" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -20,10 +20,7 @@
       <mask>*.s;</mask>
       <mask>*.slim=</mask>
       <mask>*.</mask>
-      <mask>*.sl</mask>
-      <mask>*.sli</mask>
       <mask>*.slim'</mask>
-      <mask>*.slim</mask>
       <mask>*.cp</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
@@ -31,10 +28,13 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.s</mask>
+      <mask>*.sl</mask>
+      <mask>*.sli</mask>
+      <mask>*.slim</mask>
     </recentFileMasks>
   </component>
 </application>
