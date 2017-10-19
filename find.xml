@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.slim" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -27,14 +27,14 @@
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
-      <mask>*.sl</mask>
-      <mask>*.sli</mask>
-      <mask>*.slim</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.coffee</mask>
+      <mask>*.sl</mask>
+      <mask>*.sli</mask>
+      <mask>*.slim</mask>
     </recentFileMasks>
   </component>
 </application>
