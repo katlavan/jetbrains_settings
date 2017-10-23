@@ -1,0 +1,12 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.1.2/bin/node">
+      <version-cache version="8.1.2" last-modified="1497527566000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v8.1.2/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.4.0/bin/node" />
+  </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+</application>
