@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.svg" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -26,7 +25,6 @@
       <mask>*.coffe</mask>
       <mask>*.coffee(</mask>
       <mask>*.coffee</mask>
-      <mask>*.s</mask>
       <mask>*.sl</mask>
       <mask>*.sli</mask>
       <mask>*.slim</mask>
@@ -34,6 +32,9 @@
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.rb</mask>
+      <mask>*.s</mask>
+      <mask>*.sv</mask>
+      <mask>*.svg</mask>
     </recentFileMasks>
   </component>
 </application>
