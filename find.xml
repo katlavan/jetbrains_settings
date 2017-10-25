@@ -21,10 +21,13 @@
       <mask>*.ha</mask>
       <mask>*.ham</mask>
       <mask>*.haml</mask>
-      <mask>*.s</mask>
-      <mask>*.sl</mask>
-      <mask>*.sli</mask>
       <mask>*.slim</mask>
+      <mask>*.sli</mask>
+      <mask>*.sl</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>
