@@ -13,14 +13,14 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
       <mask>*.han</mask>
-      <mask>*.ha</mask>
-      <mask>*.ham</mask>
       <mask>*.haml</mask>
+      <mask>*.ham</mask>
+      <mask>*.ha</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
