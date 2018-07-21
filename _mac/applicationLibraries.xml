@@ -408,6 +408,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.15.1/lib" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.3, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.3/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.3/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.3/man" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/bundler-1.16.3/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v9.0.6, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/9.0.6" />
@@ -2866,6 +2878,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/exe" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.3.1/bin" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.10.2, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
@@ -3446,6 +3470,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.5, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/tzinfo-1.2.5/lib" />
       </SOURCES>
     </library>
     <library name="uber (v0.0.15, rbenv: 2.4.1) [gem]">
