@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb" />
+    <option name="FILE_MASK" value="*.haml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.es</mask>
@@ -15,6 +15,7 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.rb</mask>
+      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
