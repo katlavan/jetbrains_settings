@@ -8,13 +8,14 @@
       <mask>*.es</mask>
       <mask>*.es6</mask>
       <mask>*.e</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.rb</mask>
-      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
