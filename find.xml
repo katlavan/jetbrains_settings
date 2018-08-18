@@ -10,9 +10,7 @@
       <mask>*.es</mask>
       <mask>*.es6</mask>
       <mask>*.e</mask>
-      <mask>*.rb</mask>
       <mask>*.r</mask>
-      <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
@@ -20,6 +18,8 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.scss</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
