@@ -16,8 +16,8 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
-      <mask>*.scss</mask>
       <mask>*.rb</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
