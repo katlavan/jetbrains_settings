@@ -1,25 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.es</mask>
-      <mask>*.es6</mask>
-      <mask>*.e</mask>
-      <mask>*.r</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsx</mask>
-      <mask>*.rb</mask>
-      <mask>*.scss</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
