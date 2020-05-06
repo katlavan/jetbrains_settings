@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern="face_recognition_model-shard1" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
